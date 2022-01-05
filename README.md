@@ -14,6 +14,6 @@ I like to explore new technologies and develop software solutions and quick hack
 
 
 ## Find me around the web 🌎: <a href="https://github.com/ShivCodeP"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">shivam.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://masaischool.com">Masai School</a> or <a href="https://www.monica.dev">shivam.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codesandbox.io/u/ShivCodeP">Codesandbox</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/shivamadityapandey/">LinkedIn</a> 💼
