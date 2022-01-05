@@ -1,7 +1,7 @@
 # Hi, I'm Shivam Pandey 👋🏾 👩🏾‍💻
 
 <img src="./assets/githubreadme.jpg" alt="banner that says Shivam Pandey - software engineer and community organizer alongside a cartoon illustration of Shivam Pandey">
-💡 &nbsp;I'm a software engineer who is passionate about making contributing to open-source more approachable, creating efficient application to solve people problem, and building community to solve tech related doubt and solve programming problems. Some technologies I enjoy working with include NodeJs,Express as Backend and ReactJs, Javascript, HTML, CSS, Tailwindcss, SCSS as Frontend.<br/>
+💡 &nbsp;I'm a software engineer who is passionate about making contributing to open-source more approachable, creating efficient application to solve people problem, and building community to solve tech related doubt and solve programming problems. Some technologies I enjoy working with include NodeJs, Express as Backend , MongoDB as a NoSQL Database and ReactJs, Javascript, HTML, CSS, Tailwindcss, SCSS as Frontend .<br/>
 I like to explore new technologies and develop software solutions and quick hacks.<br/>
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br/>
