@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I pursue to solve Data Structure problem's and play cricket, table tennis and chess as hobbies/side hustles.<br/>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br/>
 ✉️ &nbsp;You can shoot me an email at pshivam762@gmail.com! I'll try to respond as soon as I can.<br/>
-📄 &nbsp;Please have a look at my <a alt="my resume" src="/assets/shivam_fw12_127.pdf">Resume</a> for more details about me. I'm open to feedback and suggestions!.<br/>
+📄 &nbsp;Please have a look at my <a alt="my resume" href="/assets/shivam_fw12_127.pdf">Resume</a> for more details about me. I'm open to feedback and suggestions!.<br/>
 
 
 
