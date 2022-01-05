@@ -5,7 +5,6 @@
 I like to explore new technologies and develop software solutions and quick hacks.<br/>
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br/>
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br/>
 🌱 &nbsp;I'm on track for learning more about NextJs, TypeScript, create more efficient backend architecture and Cloud Architecture.<br/>
 ✍️ &nbsp;In my free time, I pursue to solve Data Structure problem's and play cricket, table tennis and chess as hobbies/side hustles.<br/>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br/>
